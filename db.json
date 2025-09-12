@@ -1,0 +1,44 @@
+{
+  "assets": [
+    {
+      "id": "bcdf",
+      "category": "Gold",
+      "name": "Gold",
+      "purchaseValue": 60000,
+      "purchaseDate": "2025-09-02",
+      "currentValue": 70000
+    },
+    {
+      "id": "4929",
+      "category": "Gold",
+      "name": "Ring",
+      "purchaseValue": 30000,
+      "purchaseDate": "2017-06-13",
+      "currentValue": 50000
+    },
+    {
+      "id": "76a0",
+      "category": "Crypto",
+      "name": "Bitcoin",
+      "purchaseValue": 12000,
+      "purchaseDate": "2004-05-23",
+      "currentValue": 3000
+    },
+    {
+      "id": "4925",
+      "category": "Crypto",
+      "name": "Ethereum",
+      "purchaseValue": 250,
+      "purchaseDate": "2014-02-12",
+      "currentValue": 11000
+    },
+    {
+      "id": "77b6",
+      "category": "Property",
+      "name": "DLF",
+      "purchaseValue": 1000000,
+      "purchaseDate": "2011-06-12",
+      "currentValue": 2000000
+    }
+  ]
+}
