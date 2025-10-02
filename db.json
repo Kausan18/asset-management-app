@@ -33,12 +33,12 @@
       "currentValue": 11000
     },
     {
-      "id": "77b6",
-      "category": "Property",
-      "name": "DLF",
-      "purchaseValue": 1000000,
-      "purchaseDate": "2011-06-12",
-      "currentValue": 2000000
+      "id": "face",
+      "category": "Stocks",
+      "name": "Tata",
+      "purchaseValue": 4000,
+      "purchaseDate": "2025-06-10",
+      "currentValue": 4500
     }
   ]
 }
